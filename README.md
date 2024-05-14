@@ -1,6 +1,7 @@
 ## Description
 
 Get metar from VATSIM for given ICAO airport code
+
 For simulation use only!
 
 ## Installation
