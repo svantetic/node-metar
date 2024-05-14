@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "description": "Get metar from VATSIM for given ICAO airport code",
   "main": "index.js",
-  "bin": "metar",
+  "bin": {
+    "metar": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
