@@ -1,6 +1,6 @@
 {
   "name": "@svantetic/metar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get metar from VATSIM for given ICAO airport code",
   "main": "index.js",
   "bin": {
