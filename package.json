@@ -1,8 +1,9 @@
 {
-  "name": "metar",
+  "name": "@svantetic/metar",
   "version": "1.0.0",
   "description": "Get metar from VATSIM for given ICAO airport code",
   "main": "index.js",
+  "bin": "metar",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
