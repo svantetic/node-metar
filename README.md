@@ -22,7 +22,3 @@ $ metar epkt
 ```
 EPKT 141430Z 09010KT 060V140 CAVOK 21/02 Q1015
 ```
-
-TODO:
-[] error handling
-[] description
