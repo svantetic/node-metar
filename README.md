@@ -1,3 +1,5 @@
+[![https://nodei.co/npm/@svantetic/metar.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/@svantetic/metar.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/@svantetic/metar)
+
 ## Description
 
 Get metar from VATSIM for given ICAO airport code and display it in terminal.
