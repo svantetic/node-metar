@@ -29,7 +29,7 @@ EPKT 141430Z 09010KT 060V140 CAVOK 21/02 Q1015
 ## Installation as a package
 
 ```
-$ npm install -g @svantetic/metar
+$ npm install @svantetic/metar
 ```
 
 
@@ -50,4 +50,4 @@ const epkt = await getMetar('epkt');
 
 ## Error handling
 
-Package does not do additional validation or error handling. When there's no metar available or ICAO code is wrong, it will return empty string, just like VATSIM api.
+Package does not do additional validation or error handling. When there's no metar available or ICAO code is wrong, it returns empty string, just like VATSIM api.
