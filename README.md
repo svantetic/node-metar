@@ -9,6 +9,7 @@ For simulation use only!
 You can use it as a CLI tool by installing it globally, or as a package in your project.
 
 ## Installation as a CLI tool
+(only if you have Node installed)
 
 ```
 $ npm install -g @svantetic/metar
